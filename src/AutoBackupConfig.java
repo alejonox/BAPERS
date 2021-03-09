@@ -27,6 +27,7 @@ public class AutoBackupConfig extends JFrame {
     public static void main(String[] args){
         JFrame frame = new AutoBackupConfig("Auto Backup Configuration");
         frame.setVisible(true);
+            System.out.println("Changes");
     }
 
 }
